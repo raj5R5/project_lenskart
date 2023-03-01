@@ -1,0 +1,21 @@
+.flex
+{
+    display: flex;
+}
+header
+{
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+}
+.items-center
+{
+    align-items: center;
+}
+.justify-center
+{
+    justify-content: center;
+}
+.space-around
+{
+    justify-content: space-around;
+}
+

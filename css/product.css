@@ -1,0 +1,31 @@
+#hero {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  #hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  #hero p {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  /* Values section styles */
+  #values {
+    background-color: #fff;
+    padding: 50px;
+  }
+  
+  #values h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #values ul {
+    list-style: none;
+    margin:20px;
+  }
